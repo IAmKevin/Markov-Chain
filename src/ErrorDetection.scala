@@ -1,0 +1,3 @@
+object ErrorDetection extends App {
+
+}
